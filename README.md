@@ -72,7 +72,7 @@ Then run:
 
 ```bash
 mix deps.get
-mix cinder.install  # Configure Tailwind CSS
+mix cinder.install
 ```
 
 The installer will automatically update your Tailwind configuration to include Cinder's CSS classes. If automatic configuration fails, it will provide manual setup instructions.
